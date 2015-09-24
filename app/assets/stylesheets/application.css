@@ -12,8 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *
+*
+ *= require sweet-alert
  */
-
 .navbar {
 	background-color: black;
 }
