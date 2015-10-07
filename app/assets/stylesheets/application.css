@@ -23,3 +23,60 @@
 body{
 	padding-top:40px;
 }
+
+h1 {
+  color: #FF6600;
+}
+
+.opaque {
+  background-color: rgba(245, 245, 245, 0.8);
+
+}
+
+.homepage-banner-1
+	{background: url('https://images.unsplash.com/photo-1416339158484-9637228cc908?q=80&fm=jpg&s=660c0dab9d9b49d32026e7e43869a055');
+	 -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cover;
+	 }
+
+.homepage-banner-2
+	{background: url('https://images.unsplash.com/photo-1416339684178-3a239570f315?q=80&fm=jpg&s=b53f387f2a3723625be71052812a97de');
+	 -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cove
+	}
+
+.homepage-banner-3
+    {background: url('https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&fm=jpg&s=f1c5e85b9348a8fc81a9850d0a6f1be8');
+     -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cove
+	}
+
+.homepage-banner-4
+    {background: url('https://images.unsplash.com/photo-1431608660976-4fe5bcc2112c?q=80&fm=jpg&s=34ac946970007d5d261ec7e22814942b');
+	 -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cove
+	}
+
+.homepage-banner-5
+    {background: url('https://images.unsplash.com/photo-1420802532821-8a885e88e95c?q=80&fm=jpg&s=1a8b8e0e88f2b594e4d756c1cb90267d');
+     -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cove
+}
+
+.homepage-banner-6
+    {background: url('https://images.unsplash.com/19/desktop.JPG?q=80&fm=jpg&s=10cf10aead07bd0897cc50bccc63ac07');
+     -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cove
+}
